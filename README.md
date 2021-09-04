@@ -1,4 +1,4 @@
 # Text animation for webpage.
 
-![image](https://user-images.githubusercontent.com/89921115/132101702-9e486ced-65c1-43a2-a6d8-cbf48ceabc33.png)
+![Video_21-09-04_20-07-29](https://user-images.githubusercontent.com/89921115/132103802-26f26bed-ae1e-412b-94a3-6d3a5bc982e3.gif)
 
